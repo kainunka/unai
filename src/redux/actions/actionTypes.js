@@ -1,0 +1,4 @@
+export const CHECK_LOGIN = 'CHECK_LOGIN';
+export const MESSAGE_LOGIN = 'MESSAGE_LOGIN';
+export const GET_LOCATION_LAT = 'GET_LOCATION_LAT';
+export const GET_LOCATION_LONG = 'GET_LOCATION_LONG';
